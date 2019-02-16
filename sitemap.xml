@@ -4,6 +4,86 @@
     
     <url>
     
+      <loc>/publication/ijcnn2018/</loc>
+      <lastmod>2019-02-12T14:19:38-02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/8489333/</loc>
+      <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/journal.pone.0192011/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/978-3-319-75193-1_69/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/978-3-319-75193-1_44/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/ants/</loc>
+      <lastmod>2017-03-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/1709.00797/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/seizures/</loc>
+      <lastmod>2016-07-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/moo_learn/</loc>
+      <lastmod>2014-05-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/moo/</loc>
+      <lastmod>2013-06-01T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/admin/</loc>
     </url>
     
@@ -11,7 +91,35 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>/publication_types/1/</loc>
+      <lastmod>2019-02-12T14:19:38-02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/alan-caio-m.-r./</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/applications/</loc>
+      <lastmod>2017-03-01T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -28,6 +136,7 @@
     <url>
     
       <loc>/authors/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -43,6 +152,105 @@
     
     <url>
     
+      <loc>/authors/christiano-lyra/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ellen-marianne-b.-cavalheiro/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/f.-j.-von-zuben/</loc>
+      <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/fernando-j.-von-zuben/</loc>
+      <lastmod>2019-02-12T14:19:38-02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/fernando-s.-beserra/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/luis-f.-p.-salles/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/m.-m.-raimundo/</loc>
+      <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/machine-learning/</loc>
+      <lastmod>2016-07-01T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2019-02-12T14:19:38-02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/marcos-m.-raimundo/</loc>
+      <lastmod>2019-02-12T14:19:38-02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/multiobjective-optimization/</loc>
+      <lastmod>2016-07-01T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/</loc>
     </url>
     
@@ -50,7 +258,17 @@
     
     <url>
     
+      <loc>/project/</loc>
+      <lastmod>2017-03-01T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication_types/</loc>
+      <lastmod>2019-02-12T14:19:38-02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -59,6 +277,7 @@
     <url>
     
       <loc>/publication/</loc>
+      <lastmod>2019-02-12T14:19:38-02:00</lastmod>
     </url>
     
   
@@ -73,6 +292,7 @@
     <url>
     
       <loc>/tags/</loc>
+      <lastmod>2017-03-01T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     

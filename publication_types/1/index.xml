@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Marcos M. Raimundo</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Marcos M. Raimundo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Feb 2019 14:19:38 -0200</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Investigating multiobjective methods in multitask classification</title>
+      <link>/publication/ijcnn2018/</link>
+      <pubDate>Tue, 12 Feb 2019 14:19:38 -0200</pubDate>
+      
+      <guid>/publication/ijcnn2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensembles of Multiobjective-Based Classifiers for Detection of Epileptic Seizures</title>
+      <link>/publication/978-3-319-75193-1_69/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/978-3-319-75193-1_69/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Many-Objective Ensemble-Based Multilabel Classification</title>
+      <link>/publication/978-3-319-75193-1_44/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/978-3-319-75193-1_44/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

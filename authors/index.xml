@@ -1,14 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academic</title>
+    <title>Authors on Marcos M. Raimundo</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on Academic</description>
+    <description>Recent content in Authors on Marcos M. Raimundo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alan Caio M. R.</title>
+      <link>/authors/alan-caio-m.-r./</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/alan-caio-m.-r./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christiano Lyra</title>
+      <link>/authors/christiano-lyra/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/christiano-lyra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ellen Marianne B. Cavalheiro</title>
+      <link>/authors/ellen-marianne-b.-cavalheiro/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ellen-marianne-b.-cavalheiro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. J. Von Zuben</title>
+      <link>/authors/f.-j.-von-zuben/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/f.-j.-von-zuben/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernando J. Von Zuben</title>
+      <link>/authors/fernando-j.-von-zuben/</link>
+      <pubDate>Tue, 12 Feb 2019 14:19:38 -0200</pubDate>
+      
+      <guid>/authors/fernando-j.-von-zuben/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernando S. Beserra</title>
+      <link>/authors/fernando-s.-beserra/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/fernando-s.-beserra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luis F. P. Salles</title>
+      <link>/authors/luis-f.-p.-salles/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/luis-f.-p.-salles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. M. Raimundo</title>
+      <link>/authors/m.-m.-raimundo/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/m.-m.-raimundo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcos M. Raimundo</title>
+      <link>/authors/marcos-m.-raimundo/</link>
+      <pubDate>Tue, 12 Feb 2019 14:19:38 -0200</pubDate>
+      
+      <guid>/authors/marcos-m.-raimundo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Marcos M. Raimundo</title>
+    <link>/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Marcos M. Raimundo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2016 00:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Detection of Epileptic Seizures</title>
+      <link>/project/seizures/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0300</pubDate>
+      
+      <guid>/project/seizures/</guid>
+      <description>This research project studies multiple feature extractions in EEG recordings of various patients with epilepsy. The first approach of this project employed a multiobjective transfer learning approach to promoting joint learning among the patients and an ensemble method to aggregate the multiple feature extractions. A second approach explored a multiobjective approach that weights the influence of each feature extraction.</description>
+    </item>
+    
+    <item>
+      <title>Multiobjective optimization in machine learning</title>
+      <link>/project/moo_learn/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 -0300</pubDate>
+      
+      <guid>/project/moo_learn/</guid>
+      <description>This research project is a framework using a posteriori multiobjective optimization to train generalized linear models. To deal with the multiple models resultant from the training I explored ensemble filtering and aggregation technique. One of the strengths of this framework resides in its flexibility, being applicable to multi-class and multi-label classification, transfer learning, multi-task learning, and multi-view learning.</description>
+    </item>
+    
+  </channel>
+</rss>

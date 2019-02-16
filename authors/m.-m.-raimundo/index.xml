@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. M. Raimundo on Marcos M. Raimundo</title>
+    <link>/authors/m.-m.-raimundo/</link>
+    <description>Recent content in M. M. Raimundo on Marcos M. Raimundo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/m.-m.-raimundo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Investigating multiobjective methods in multitask classification</title>
+      <link>/publication/8489333/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/8489333/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
